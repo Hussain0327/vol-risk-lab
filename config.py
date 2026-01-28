@@ -7,7 +7,7 @@ DATA_PROCESED = PROJECT_ROOT / "data" / "processed"
 
 # Data parameters
 DATE_COL = "Date"
-PRICE_COL = "CLOSE"
+PRICE_COL = "Close"
 
 # Volatility parameters
 TRADING_DAYS_PER_YEAR = 252
